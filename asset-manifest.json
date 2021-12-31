@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diaz-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/diaz-portfolio/static/js/main.aef16e6a.js",
+    "static/js/787.8d5f1463.chunk.js": "/diaz-portfolio/static/js/787.8d5f1463.chunk.js",
+    "static/media/logo.svg": "/diaz-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/diaz-portfolio/index.html",
+    "main.073c9b0a.css.map": "/diaz-portfolio/static/css/main.073c9b0a.css.map",
+    "main.aef16e6a.js.map": "/diaz-portfolio/static/js/main.aef16e6a.js.map",
+    "787.8d5f1463.chunk.js.map": "/diaz-portfolio/static/js/787.8d5f1463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aef16e6a.js"
+  ]
+}
