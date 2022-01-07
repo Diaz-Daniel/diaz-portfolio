@@ -1,17 +1,32 @@
-import Header from "./components/header/Header";
-import About from "./components/about/About";
-import Portfolio from "./components/project/Project";
-import Contact from "./components/contact/Contact";
-import Resume from "./components/resume/Resume";
-import Footer from "./components/footer/Footer";
+import React, { useState } from "react";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+import About from "./components/About/About";
+import Project from "./components/Project/Project";
+import Resume from "./components/Resume/Resume";
+import Contact from "./components/Contact/Contact";
+
 const App = () => {
+  const [currentPage, setCurrentPage] = useState("About");
+  const renderPage = () => {
+    if (currentPage === "About") {
+      return <About />;
+    }
+    if (currentPage === "Project") {
+      return <Project />;
+    }
+    if (currentPage === "Resume") {
+      return <Resume />;
+    }
+    if (currentPage === "Contact") {
+      return <Contact />;
+    }
+  };
+
   return (
     <div className="App">
-      <Header />
-      <About />
-      <Portfolio />
-      <Contact />
-      <Resume />
+      <Header currentPage={currentPage} setCurrentPage={setCurrentPage} />
+      {renderPage()}
       <Footer />
     </div>
   );
