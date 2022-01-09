@@ -25,9 +25,9 @@ const App = () => {
   };
 
   return (
-    <div className="App">
+    <div className="App" id="page-container">
       <Header currentPage={currentPage} setCurrentPage={setCurrentPage} />
-      {renderPage()}
+      <div id="content-wrap">{renderPage()}</div>
       <Footer />
     </div>
   );
