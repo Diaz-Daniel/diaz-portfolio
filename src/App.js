@@ -5,6 +5,7 @@ import About from "./components/About/About";
 import Project from "./components/Project/Project";
 import Resume from "./components/Resume/Resume";
 import Contact from "./components/Contact/Contact";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   const [currentPage, setCurrentPage] = useState("About");
