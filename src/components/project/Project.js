@@ -10,34 +10,43 @@ const Portfolio = () => {
       </div>
       <Row>
         <Col>
-          <a href="#" className="career">
+          <a href="https://careerconeproject.herokuapp.com/" className="career">
             <div>
-              <p>Project 1</p>
+              <p>Career Cone</p>
             </div>
           </a>
         </Col>
       </Row>
       <Row>
         <Col>
-          <a href="#" className="rowTwo workTwo">
+          <a
+            href="https://safe-shore-96091.herokuapp.com/notes"
+            className="rowTwo workTwo"
+          >
             <div>
-              <p>Project 2</p>
+              <p>Note Taker</p>
             </div>
           </a>
         </Col>
         <Col>
-          <a href="#" className="rowTwo workThree">
+          <a
+            href="https://diaz-daniel.github.io/Quick_Calendar/"
+            className="rowTwo workThree"
+          >
             <div>
-              <p>Project 3</p>
+              <p>Work Day Scheduler</p>
             </div>
           </a>
         </Col>
       </Row>
       <Row>
         <Col>
-          <a href="#" className="rowTwo workTwo">
+          <a
+            href="https://diaz-daniel.github.io/Coding_Quiz/"
+            className="rowTwo workTwo"
+          >
             <div>
-              <p>Project 2</p>
+              <p>Coding Quiz</p>
             </div>
           </a>
         </Col>
