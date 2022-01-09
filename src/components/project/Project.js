@@ -42,9 +42,12 @@ const Portfolio = () => {
           </a>
         </Col>
         <Col>
-          <a href="#" className="rowTwo workThree">
+          <a
+            href="https://diaz-daniel.github.io/Random_Code/"
+            className="rowTwo workThree"
+          >
             <div>
-              <p>Project 3</p>
+              <p>Password Generator</p>
             </div>
           </a>
         </Col>
