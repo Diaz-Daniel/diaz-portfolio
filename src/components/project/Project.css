@@ -1,28 +1,99 @@
+.pText {
+  padding: 5px;
+  background-color: #212529;
+  color: #ffffff8c;
+  border-radius: 5px;
+}
+
+/* a {
+  padding: 5px;
+  background-color: #212529;
+  color: #ffffff8c;
+  border-radius: 5px;
+  text-decoration: none;
+} */
+
 .career {
+  border-radius: 25px;
+  border: 2px solid #080c02;
   min-height: 400px;
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
   margin: 2px;
-  background-image: url("https://sliftrock.com/en/wp-content/uploads/2017/05/cover_WEB-600x600.jpg");
-  background-size: 150%;
+  background-size: 100%;
+  object-fit: contain;
+  background-repeat: no-repeat;
 }
 
-.rowTwo {
+.notes {
+  border-radius: 25px;
+  border: 2px solid #080c02;
   min-height: 200px;
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
   margin: 2px;
-  background-size: 150%;
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
-.workTwo {
-  background-image: url("https://sliftrock.com/en/wp-content/uploads/2017/05/cover_WEB-600x600.jpg");
+.schedulerTracker {
+  border-radius: 25px;
+  border: 2px solid #080c02;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 20px 0;
+  text-decoration: none;
+  margin: 2px;
+  background-size: 105%;
+  background-repeat: no-repeat;
 }
 
-.workThree {
-  background-image: url("https://sliftrock.com/en/wp-content/uploads/2017/05/cover_WEB-600x600.jpg");
+.codingQuiz {
+  border-radius: 25px;
+  border: 2px solid #080c02;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 20px 0;
+  text-decoration: none;
+  margin: 2px;
+  background-size: 108%;
+  background-repeat: no-repeat;
+}
+
+.pswd {
+  border-radius: 25px;
+  border: 2px solid #080c02;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 20px 0;
+  text-decoration: none;
+  margin: 2px;
+  background-size: 110%;
+  background-repeat: no-repeat;
+}
+
+.careerImg {
+  background-image: url("https://lh3.googleusercontent.com/lr55QAzZomRxCpsLX9B4zKAfdpYhEyVIN4LROBdYXGq4qw-kh_2-W5V4dorwNSQ8FcG0CsHN6U0gElu9EvPu18GEZ5Fi9wpejSqZDjqIGRkEyzeMYXyQPXo44g84-Fy23_QgyFXFfNM=w2400");
+}
+.notesImg {
+  background-image: url("https://lh3.googleusercontent.com/AOZpGU-rSGNOd1NYRgcNcpHJ6JdJXSOFXdoD6zOKt4DVoihGjiiSQyhbkCBe4iqL48eJW7Imk-aVii8h3FUulKew_rXUyxQiGmcCstQj3_uR4UOj351q2jd_GZhD1b9tCvVeiVjV8uM=w2400");
+}
+
+.schedulerImg {
+  background-image: url("https://lh3.googleusercontent.com/oN241zueB2_eAH8tS87RiR9ANENz96fBEzIo65kTe3vi3Dwiq1ZHEvF9_6oQ0RwEjR__iwqRtdki3gzrph6ZMYx27LuDxU8dYlB7HFsLVNchvLVr4CK4GvJuWXugdIWvBcriG9427cg=w2400");
+}
+
+.codingImg {
+  background-image: url("https://lh3.googleusercontent.com/Ta4UPEXCCRtQLzb016ID6sFvSp2G2f5KO6yNCi5GIPMCmOuJmu7FLC8H1WADPdDMZEXNTj5kTzunXLKoiknQaMlOJdjxT7rIqoOiXufRjVBMIBhmzJk2qU_r4Xbq-IrCvF_rJHZ5fiM=w2400");
+}
+
+.pswdImg {
+  background-image: url("https://lh3.googleusercontent.com/tObJkYPifg3pxdoXMMPwRgFGbJB5__k-VNNPIqAloCvkUevso71sFNpYEYvI-ovkvlDJ0uHaYQ8vDS9FKMoxeeE8DjVZllFsYd2Xa2Dyfdlbnj96JNBzjFFsGolTzjRmVxWw4Dv5FYE=w2400");
 }

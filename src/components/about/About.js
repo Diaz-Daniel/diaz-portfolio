@@ -50,6 +50,22 @@ const About = () => {
           </p>
         </Col>
       </Row>
+      <Row className="justify-content-md-center">
+        <Col xs={12} sm={6} md={6}>
+          <h1>Skills</h1>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <ul>React</ul>
+          <ul>MongoDB</ul>
+          <ul>SQL</ul>
+          <ul>Express</ul>
+          <ul>Node</ul>
+          <ul>Javascript</ul>
+          <ul>Css</ul>
+        </Col>
+      </Row>
     </Container>
   );
 };

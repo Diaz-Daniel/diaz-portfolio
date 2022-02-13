@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import Header from "./components/Header/Header";
-import Footer from "./components/Footer/Footer";
-import About from "./components/About/About";
-import Project from "./components/Project/Project";
-import Resume from "./components/Resume/Resume";
-import Contact from "./components/Contact/Contact";
+import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
+import About from "./components/about/About";
+import Project from "./components/project/Project";
+import Resume from "./components/resume/Resume";
+import Contact from "./components/contact/Contact";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
