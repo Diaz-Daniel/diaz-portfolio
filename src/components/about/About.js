@@ -30,23 +30,22 @@ const About = () => {
           <p>
             Web developer with a background in Engineering. I have over 15 years
             of work experience and earned my degree in philosophy at California
-            State Northridge. I am completing my full stack certification
-            through the University of Washington coding program focused on MERN
-            stack development. <br></br>I currently work as a Fleet Engineer for
-            a Seattle-based maritime company. While the work can sometimes be
+            State Northridge. I completed a full stack certification through the
+            University of Washington coding program focused on MERN stack
+            development. <br></br>I have worked as a Fleet Engineer for a
+            Seattle-based maritime company. While the work can sometimes be
             dirty and complex as they involve different boating systems, I have
             found tackling problems to be the best part of my job. From quick
             fixes to complex interconnected systems issues, the process of
             problem-solving remains the same and applies to my coding work. I
             have cultivated strong attention to detail and found unique ways to
             solve problems on boats and in code. In a recent website deployment
-            project, I was the team leader and helped find solutions for every
-            challenge we faced. <br></br>
-            Transitioning my career to web development feels seamless because
-            while the technical problems to be solved are markedly different–the
-            process of finding solutions remains the same. I am looking forward
-            to working at a company that promotes growth to expand my skills
-            further while leveraging my experience.
+            project <br></br>
+            Making the transition to web development was seamless because while
+            the technical problems to be solved are different–the process of
+            finding solutions remains the same. I am looking forward to working
+            at a company that promotes growth to expand my skills further while
+            leveraging my experience.
           </p>
         </Col>
       </Row>
