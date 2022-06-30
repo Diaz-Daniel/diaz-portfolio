@@ -15,6 +15,7 @@ const Portfolio = () => {
             <a href="https://careerconeproject.herokuapp.com/">
               <p>Career Cone</p>
             </a>
+            <br></br>
             <a href="https://github.com/humkeyg/Career-Cone-1.0.git">
               <p>Source Code</p>
             </a>
@@ -27,6 +28,7 @@ const Portfolio = () => {
             <a href="https://safe-shore-96091.herokuapp.com/notes">
               <p>Note Taker</p>
             </a>
+            <br></br>
             <a href="https://github.com/Diaz-Daniel/Note_Taker.git">
               <p>Source Code</p>
             </a>
@@ -37,6 +39,7 @@ const Portfolio = () => {
             <a href="https://diaz-daniel.github.io/Quick_Calendar/">
               <p>Work Day Scheduler</p>
             </a>
+            <br></br>
             <a href="https://github.com/Diaz-Daniel/Quick_Calendar.git">
               <p>Source Code</p>
             </a>
@@ -49,6 +52,7 @@ const Portfolio = () => {
             <a href="https://diaz-daniel.github.io/Coding_Quiz/">
               <p>Coding Quiz</p>
             </a>
+            <br></br>
             <a href="https://github.com/Diaz-Daniel/Coding_Quiz.git">
               <p>Source Code</p>
             </a>
@@ -59,6 +63,7 @@ const Portfolio = () => {
             <a href="https://diaz-daniel.github.io/Random_Code/">
               <p>Password Generator</p>
             </a>
+            <br></br>
             <a href="https://github.com/Diaz-Daniel/Random_Code.git">
               <p>Source Code</p>
             </a>
