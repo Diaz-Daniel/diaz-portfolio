@@ -28,54 +28,54 @@
 }
 
 .notes {
-  border-radius: 25px;
-  border: 2px solid #080c02;
+  /* border-radius: 25px;
+  border: 2px solid #080c02; */
   min-height: 200px;
   display: flex;
   align-items: flex-end;
-  padding: 0 0 20px 0;
+  padding: 0 0 0 0;
   text-decoration: none;
-  margin: 2px;
+  margin: 0px;
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .schedulerTracker {
-  border-radius: 25px;
-  border: 2px solid #080c02;
+  /* border-radius: 25px;
+  border: 2px solid #080c02; */
   min-height: 200px;
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
-  margin: 2px;
+  margin: 0px;
   background-size: 105%;
   background-repeat: no-repeat;
 }
 
 .codingQuiz {
-  border-radius: 25px;
-  border: 2px solid #080c02;
+  /* border-radius: 25px;
+  border: 2px solid #080c02; */
   min-height: 200px;
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
-  margin: 2px;
+  margin: 0px;
   background-size: 108%;
   background-repeat: no-repeat;
 }
 
 .pswd {
-  border-radius: 25px;
-  border: 2px solid #080c02;
+  /* border-radius: 25px;
+  border: 2px solid #080c02; */
   min-height: 200px;
   display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
-  margin: 2px;
-  background-size: 110%;
+  margin: 0px;
+  background-size: 101%;
   background-repeat: no-repeat;
 }
 
