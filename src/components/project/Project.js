@@ -85,7 +85,11 @@ const Portfolio = () => {
       <Row>
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" className="notes notesImg" />
+            <Card.Img
+              variant="top"
+              className="notes notesImg"
+              alt="Screen Shot of Note Taker Start Screen"
+            />
             <Card.Body>
               <Card.Title>Note Taker</Card.Title>
               <Card.Text>
@@ -112,7 +116,11 @@ const Portfolio = () => {
         </Col>
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" className="schedulerTracker schedulerImg" />
+            <Card.Img
+              variant="top"
+              className="schedulerTracker schedulerImg"
+              alt="Screen Shot of Quick Calendar"
+            />
             <Card.Body>
               <Card.Title>Quick Calendar</Card.Title>
               <Card.Text>
@@ -141,7 +149,11 @@ const Portfolio = () => {
       <Row>
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" className="codingQuiz codingImg" />
+            <Card.Img
+              variant="top"
+              className="codingQuiz codingImg"
+              alt="Screen Shot of Coding Quiz Start Page"
+            />
             <Card.Body>
               <Card.Title>Coding Quiz</Card.Title>
               <Card.Text>
@@ -169,7 +181,11 @@ const Portfolio = () => {
         </Col>
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" className="pswd pswdImg" />
+            <Card.Img
+              variant="top"
+              className="pswd pswdImg"
+              alt="Screen Shot of Passwork Generator Page"
+            />
             <Card.Body>
               <Card.Title>Password Generator</Card.Title>
               <Card.Text>
